@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:dc="https://purl.org/dc/elements/1.1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bika_ambon">
+        <dc:title>Bika Ambon</dc:title>
+        <dc:ingridients>Bahan santan :
+                        -Ambil 1000 ml santan dari 2 butir kelapa
+                        - 3 lembar daun pandan
+                        - 10 lembar daun jeruk
+                        - 1 batang serai
+                        - 2 ruas kunyit dipotong-potong
+                        - 1/2 sdt garam
+                        Bahan Kue :
+                        - 10 butir kuning telur
+                        - 2 butir telur utuh
+                        - 400 ml santan masak
+                        - 300 gr tepung sagu
+                        - 300 gr gula pasir
+                        Bahan Biang :
+                        - 1 sdm terigu
+                        - 6 sdm air hangat
+                        - 1 bungkus fermipan
+                        - 1 sdt gula pasir                        
+        </dc:ingridients>
+        <dc:tutorial>
+            1. Masak semua bahan santan di atas api sedang sampai tinggal 400 ml. Angkat, dinginkan.
+            2. Campur jadi satu bahan biang. Diamkan selama 10 menit.
+            3. Kocok telur dan gula dengan mixer sampai gula larut.
+            4. Turunkan kecepatan mixer, masukkan santan dan tepung sagu bergantian sampai habis. Aduk rata.
+            5. Masukkan biang. Aduk rata kembali. Matikan mixer lalu saring adonan.
+            6. Pukul-pukul adonan dengan centong kayu minimal selama 15 menit.
+            7. Tutup wadah, diamkan adonan selama kurang lebih 3 jam.
+            8. Siapkan loyang 18x18cm. Oles margarin dan taburi tepung. Panaskan loyang bersamaan saat memanaskan oven.
+            9. Tuang adonan ke loyang panas. Panggang 180C selama 40 menit. Biarkan oven sedikit terbuka selama 30 menit pertama, kemudian tutup rapat oven, panggang sampai matang.
+            10. Angkat dan potong-potong setelah kue dingin. Sajikan.
+        </dc:tutorial>
+        <dc:Image>https://cdns.klimg.com/merdeka.com/i/w/news/2020/01/30/1144060/540x270/resep-bika-ambon-khas-medan-yang-bersarang-rev-1.jpg</dc:Image>
+        <dc:description>Bika ambon adalah penganan khas Medan, Indonesia. Terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Kini Bika Ambon dijual bukan saja rasa asli tetapi sudah ada varian rasa pandan, durian, keju, dan cokelat. Bika ambon yang dimasak selama 12 jam, ini biasanya dapat bertahan dalam kondisi terbaik selama empat hari karena setelah itu kue tersebut mulai mengeras. Kue basah ini biasanya memiliki jaring-jaring pada bagian dalamnya.</dc:description>
+    </rdf:Description>
+</rdf:RDF>
